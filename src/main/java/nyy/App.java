@@ -2,7 +2,7 @@ package nyy;
 
 /**
  * Hello world!
- *
+ 
  */
 public class App 
 {
