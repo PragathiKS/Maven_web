@@ -5,4 +5,5 @@ agent any
     {
       steps {git branch : 'master' ,url : 'https://github.com/PragathiKS/Maven_web.git'}
     }
+  }
 }
