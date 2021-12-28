@@ -1,9 +1,1 @@
-pipeline{
-agent any
-stages{
-  satge{
-    steps{}
-   steps{}
-     }
-}
-}
+
